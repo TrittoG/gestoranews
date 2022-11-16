@@ -43,6 +43,7 @@ Notas de actualizaciones de Gestora!
 <br>
 <br>
 <br>
+
 # VERSION 1.0.2
 
 <div>
