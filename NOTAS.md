@@ -1,5 +1,5 @@
 # Novedades de Gestora!
-Notas deactualizaciones de Gestora!
+Notas de actualizaciones de Gestora!
 
 # VERSION 1.0.3
 
