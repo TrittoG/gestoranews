@@ -37,6 +37,12 @@ Notas de actualizaciones de Gestora!
 <br>
 *Se corrigen Bugs varios
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 # VERSION 1.0.2
 
 <div>
