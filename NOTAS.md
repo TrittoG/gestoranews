@@ -12,6 +12,9 @@ VERSION 1.0.3
 
 
 </div>
+<br>
+<br>
+<br>
 <div>
       *Se agrega funcionalidad para el boton de "Imprimir al Facturar" ahora ya puede hacer facturas sin imprimir!
      <br>
@@ -19,6 +22,9 @@ VERSION 1.0.3
       alt="MDN"
       style="whidth:50px">
 </div>
+<br>
+<br>
+<br>
 <div>
       *Modificaciones en textos del login
      <br>
@@ -27,5 +33,6 @@ VERSION 1.0.3
       style="whidth:50px">
 </div>
 
-
+<br>
+<br>
 *Se corrigen Bugs varios
