@@ -36,3 +36,17 @@ Notas de actualizaciones de Gestora!
 <br>
 <br>
 *Se corrigen Bugs varios
+
+# VERSION 1.0.2
+
+<div>
+     <b>*Se Agregan nuevos informes por fechas!</b>
+     <br>
+      <img src="https://user-images.githubusercontent.com/36174147/202061487-8f14681c-9374-4385-b124-678038d90080.png"
+      alt="MDN"
+      style="whidth:50px">
+</div>
+<br>
+<br>
+*Se corrigen Bugs varios
+
