@@ -1,7 +1,7 @@
 # Novedades de Gestora!
 Notas deactualizaciones de Gestora!
 
-#VERSION 1.0.3
+# VERSION 1.0.3
 
 <div>
      <b> *Se agrega boton para ver nuevas actualizaciones!</b>
