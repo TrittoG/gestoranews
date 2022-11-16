@@ -5,6 +5,7 @@ VERSION 1.0.3
 
 <div>
       *Se agrega boton para ver nuevas actualizaciones!
+     <br>
       <img src="https://user-images.githubusercontent.com/36174147/202056373-d4659181-53ef-49ac-a9b5-e0bab813be31.png"
       alt="MDN"
       style="whidth:50px">
@@ -20,6 +21,7 @@ VERSION 1.0.3
 </div>
 <div>
       *Modificaciones en textos del login
+     <br>
       <img src="https://user-images.githubusercontent.com/36174147/202057069-d10988d6-1aa8-4ab6-bea8-f9c03e0d7d99.png"
       alt="MDN"
       style="whidth:50px">
