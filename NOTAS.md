@@ -13,6 +13,7 @@ VERSION 1.0.3
 </div>
 <div>
       *Se agrega funcionalidad para el boton de "Imprimir al Facturar" ahora ya puede hacer facturas sin imprimir!
+     <br>
       <img src="https://user-images.githubusercontent.com/36174147/202056989-411d58c0-3f99-4a79-888a-40e6061b6414.png"
       alt="MDN"
       style="whidth:50px">
