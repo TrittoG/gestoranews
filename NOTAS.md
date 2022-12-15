@@ -1,6 +1,20 @@
 # Novedades de Gestora!
 Notas de actualizaciones de Gestora!
 
+# VERSION 1.0.4
+
+<div>
+     <b> *Fix crear cliente</b>
+     <b> *Fix paginacion con filtros en buscar producto</b>
+     <b> *Nueva Funcionalidad: Enter para cargar producto</b>
+     <b> *Nueva Funcionalidad: Busca productos automaticamente</b>
+     <b> *Nueva Funcionalidad: Visualizar ultimo codigo cargado de productos </b>
+     <br>
+
+
+</div>
+
+
 # VERSION 1.0.3
 
 <div>
