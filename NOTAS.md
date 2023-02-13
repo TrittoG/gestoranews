@@ -1,12 +1,35 @@
 # Novedades de Gestora!
 Notas de actualizaciones de Gestora!
-La version 1.1.0 ya esta aqui!
+La version 1.2.0 ya esta aqui! a Full Color!
+
+# VERSION 1.1.0
+## :hammer:Funcionalidades del proyecto
+
+ <img src="https://user-images.githubusercontent.com/36174147/218581770-58f5d26e-fec6-4127-af64-d3f1a9ccafad.png"
+      alt="MDN"
+      style="whidth:50px; margin: 1px solid black;">
+  <h3 style="color: red;">Se agregan nuevos puntos de Menu para notas de credito emitidas y nuevas</h3>
+  
+  
+ <img src="https://user-images.githubusercontent.com/36174147/218582009-ea4a505b-c783-4595-be4e-75b41fd9bf05.png"
+      alt="MDN"
+      style="whidth:50px; margin: 1px solid black;">
+  <h3 style="color: red;">Ahora todas las tablas del sistema van a juego con el color principal!</h3>
+
+
+
+
+
 
 # VERSION 1.1.0
  <img src="https://user-images.githubusercontent.com/36174147/215297547-8750942a-e700-4dd0-9ebe-8b1baa7dcbf4.png"
       alt="MDN"
       style="whidth:50px; margin: 1px solid black;">
   <h3 style="color: red;">Se cambia el modo de aplicar descuentos y cambiar los precios. Ahora haciendo doble click en el precio o el descuento podra editarlo.</h3>
+
+
+
+
 
 
 # VERSION 1.0.4
