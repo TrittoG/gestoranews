@@ -2,13 +2,13 @@
 Notas de actualizaciones de Gestora!
 La version 1.2.0 ya esta aqui! a Full Color!
  <br> <br> <br> <br> <br> <br>
-## VERSION 1.2.0
+## VERSION 1.2.0 Colores!
  <br>
  <img src="https://user-images.githubusercontent.com/36174147/218581770-58f5d26e-fec6-4127-af64-d3f1a9ccafad.png"
       alt="MDN"
       style="whidth:50px; margin: 1px solid black;">
        <br> 
- <h3 style="color: red;"> ✅ `Nuevos Menus:` Se agregan nuevos puntos de Menu para notas de credito emitidas y nuevas</h3>
+ `Nuevos Menus:`<h3 style="color: red;"> ✅  Se agregan nuevos puntos de Menu para notas de credito emitidas y nuevas</h3>
    <br>
   
  <img src="https://user-images.githubusercontent.com/36174147/218582009-ea4a505b-c783-4595-be4e-75b41fd9bf05.png"
