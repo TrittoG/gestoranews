@@ -7,7 +7,7 @@ La version 1.2.0 ya esta aqui! a Full Color!
  <img src="https://user-images.githubusercontent.com/36174147/218581770-58f5d26e-fec6-4127-af64-d3f1a9ccafad.png"
       alt="MDN"
       style="whidth:50px; margin: 1px solid black;">
-       <br> 
+       <br> `Funcionalidad 1`
    `n` <h3 style="color: red;"> ✅  Se agregan nuevos puntos de Menu para notas de credito emitidas y nuevas</h3>
    <br>
   
