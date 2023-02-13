@@ -1,4 +1,4 @@
-# :large_blue_diamond: Novedades de Gestora!
+# :large_blue_diamond: :large_blue_diamond: Novedades de Gestora! :large_blue_diamond: :large_blue_diamond:
 Notas de actualizaciones de Gestora!
 La version 1.2.0 ya esta aqui! a Full Color!
  <br> <br> <br> <br> <br> <br>
