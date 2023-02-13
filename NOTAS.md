@@ -8,25 +8,25 @@ La version 1.2.0 ya esta aqui! a Full Color!
       alt="MDN"
       style="whidth:50px; margin: 1px solid black;">
        <br> 
- ✅<h3 style="color: red;">`Nuevos Menus:` Se agregan nuevos puntos de Menu para notas de credito emitidas y nuevas</h3>
+ <h3 style="color: red;"> ✅ `Nuevos Menus:` Se agregan nuevos puntos de Menu para notas de credito emitidas y nuevas</h3>
    <br>
   
  <img src="https://user-images.githubusercontent.com/36174147/218582009-ea4a505b-c783-4595-be4e-75b41fd9bf05.png"
       alt="MDN"
       style="whidth:50px; margin: 1px solid black;"> <br>
-  ✅ <h3 style="color: red;">`Colores!:` Ahora todas las tablas del sistema van a juego con el color principal!</h3>
+   <h3 style="color: red;"> ✅`Colores!:` Ahora todas las tablas del sistema van a juego con el color principal!</h3>
  <br>
  
  <img src="https://user-images.githubusercontent.com/36174147/218583220-b5599542-d12c-439b-acd6-6c7bf746a6ae.png"
       alt="MDN"
       style="whidth:50px; margin: 1px solid black;"> <br>
-  ✅ <h3 style="color: red;">`Nuevos graficos mejorados:` Se actualizaron los graficos del inicio cambiando color e informacion</h3>
+   <h3 style="color: red;">✅ `Nuevos graficos mejorados:` Se actualizaron los graficos del inicio cambiando color e informacion</h3>
  <br>
  
   <img src="https://user-images.githubusercontent.com/36174147/218583591-c1153e5d-4f8e-43f2-9f4e-8c01ecee537b.png"
       alt="MDN"
       style="whidth:50px; margin: 1px solid black;"> <br>
-  ✅ <h3 style="color: red;">`Nuevos Nuevo Menu Datos:` Ahora hay un nuevo lugar donde ver informacion de tu negocio!</h3>
+   <h3 style="color: red;"> ✅`Nuevos Nuevo Menu Datos:` Ahora hay un nuevo lugar donde ver informacion de tu negocio!</h3>
 
 
  <br> <br> <br> <br> <br> <br> <br> <br> <br> 
