@@ -1,7 +1,24 @@
 # :large_blue_diamond: :large_blue_diamond: Novedades de Gestora! :large_blue_diamond: :large_blue_diamond:
 Notas de actualizaciones de Gestora!
-La version 1.2.0 ya esta aqui! a Full Color!
+La version 1.3.0 ya esta aqui! Notificaciones!
  <br> <br> <br> <br> <br> <br>
+## Version 1.3.0 Notificaciones y mas!
+<br>
+![image](https://github.com/TrittoG/gestoranews/assets/36174147/6ded6e0d-de4a-4768-a612-debe9a435f27)
+![image](https://github.com/TrittoG/gestoranews/assets/36174147/ab0b879c-cf97-4b36-a25a-cc7b89a9823c)
+
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/36174147/255266857-ab0b879c-cf97-4b36-a25a-cc7b89a9823c.png"
+      alt="MDN"
+      style="whidth:50px; margin: 1px solid black;">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/36174147/255266477-6ded6e0d-de4a-4768-a612-debe9a435f27.png"
+      alt="MDN"
+      style="whidth:50px; margin: 1px solid black;">
+       <br>
+    <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Notificaciones:`` Se agregan Notificaciones de cierre de caja chica y productos sin stock</h3>
+   <br>
+
+
+ 
 ## VERSION 1.2.0 Colores!
  <br>
  <img src="https://user-images.githubusercontent.com/36174147/218581770-58f5d26e-fec6-4127-af64-d3f1a9ccafad.png"
