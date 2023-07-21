@@ -26,7 +26,7 @@ La version 1.3.0 ya esta aqui! Notificaciones!
 alt="MDN"
 style="whidth:50px; margin: 1px solid black;">
 
-<h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Configuraciones:`` Se agregan Notificaciones de cierre de caja chica y productos sin stock</h3>
+    <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Configuraciones:`` Se agregan Notificaciones de cierre de caja chica y productos sin stock</h3>
    <br>
 
 
