@@ -22,7 +22,10 @@ La version 1.3.0 ya esta aqui! Notificaciones!
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/36174147/255267270-e06be280-0444-4632-91be-0ac6a49966b3.png"
 alt="MDN"
 style="whidth:50px; margin: 1px solid black;">
-<h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Configuraciones:`` Se agregan Notificaciones de cierre de caja chica y productos sin stock</h3>
+<h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Configuraciones:`` Se agrego una nueva pestana de Configuracion que permite agregar, modificar y/o borrar datos de la empresa</h3>
+   <br>
+
+   <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Mejoras de Seguridad:`` Se agregan Notificaciones de cierre de caja chica y productos sin stock</h3>
    <br>
 
 
