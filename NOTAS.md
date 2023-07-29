@@ -1,8 +1,21 @@
 # :large_blue_diamond: :large_blue_diamond: Novedades de Gestora! :large_blue_diamond: :large_blue_diamond:
 Notas de actualizaciones de Gestora!
-La version 1.3.0 ya esta aqui! Notificaciones!
+La version 1.4.0 ya esta aqui! Productos!
  <br> <br> <br> <br> <br> <br>
-## Version 1.3.0 Notificaciones y mas!
+## Version 1.4.3 Productos Caja grande Caja chica y Migrador!
+ <br>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Migrador:`` Ahora el migrador esta 100% funcional! ademas permite actualizar precios</h3>
+ <br>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Caja Grande:`` Ahora los saldos en la caja estan correctamente calculados</h3>
+ <br>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Caja Chica:`` Se agrego los conceptos de ingresos y egresos</h3>
+
+
+<br>
+<br>
+<br>
+
+## Version 1.3.2 Notificaciones y mas!
 <br>
 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/36174147/255266857-ab0b879c-cf97-4b36-a25a-cc7b89a9823c.png"
