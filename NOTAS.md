@@ -2,6 +2,12 @@
 Notas de actualizaciones de Gestora!
 La version 1.4.0 ya esta aqui! Productos!
  <br> <br> <br> <br> <br> <br>
+## Version 1.4.4 Fixs en Buscadores y mas
+ <br>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Buscadores:`` Los buscadores de producto ahora no tienen el bug de paginacion y buscan automaticamente</h3>
+ <br>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Productos Padre:`` Ahora los Productos hijos dicen cual es su producto padre</h3>
+ 
 ## Version 1.4.3 Productos Caja grande Caja chica y Migrador!
  <br>
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Migrador:`` Ahora el migrador esta 100% funcional! ademas permite actualizar precios</h3>
