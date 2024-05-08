@@ -17,6 +17,7 @@ Notas de actualizaciones de Gestora!
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Fix Bugs y mejoras de performance:`</h3>
   <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Edicion de Local:`</h3>
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Sucursales mejoradas:`</h3>
+  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Alertas mejoradas:`</h3>
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Mucho Mucho mas:`</h3>
 
 
