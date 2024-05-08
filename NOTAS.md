@@ -5,7 +5,7 @@ Notas de actualizaciones de Gestora!
  <br> <br> <br> <br> <br> <br>
  ## Version 2.0.0 Fixs varios y nuevas funcionalidades
  <br>
-## Version 2.0.0 Fixs varios y nuevas funcionalidades
+## Version 2.1.0 Fixs varios y edicion de local
  <br>
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Presupuestos:`</h3>
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Configuraciones:`</h3>
@@ -15,6 +15,7 @@ Notas de actualizaciones de Gestora!
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Buscador Productos por Cantidad de ventas:`</h3>
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Informes:`</h3>
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Fix Bugs y mejoras de performance:`</h3>
+  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Edicion de Local:`</h3>
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Sucursales mejoradas:`</h3>
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Mucho Mucho mas:`</h3>
 
