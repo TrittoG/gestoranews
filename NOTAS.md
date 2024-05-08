@@ -3,6 +3,9 @@ Notas de actualizaciones de Gestora!
 
 ## <h1 style="color: red;">La version 2.0.0 ya esta aqui!</h1>
  <br> <br> <br> <br> <br> <br>
+ ## Version 2.0.0 Fixs varios y nuevas funcionalidades
+ <br>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Fixs:`</h3>
 ## Version 2.0.0 Fixs varios y nuevas funcionalidades
  <br>
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Presupuestos:`</h3>
