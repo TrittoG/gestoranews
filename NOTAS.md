@@ -1,5 +1,20 @@
 # :large_blue_diamond: :large_blue_diamond: Novedades de Gestora! :large_blue_diamond: :large_blue_diamond:
 Notas de actualizaciones de Gestora!
+
+La version 2.0.0 ya esta aqui!
+ <br> <br> <br> <br> <br> <br>
+## Version 2.0.0 Fixs varios y nuevas funcionalidades
+ <br>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Presupuestos:`</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Configuraciones:`</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Imprimir Facturas:`</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Imprimir Tickets:`</h3>
+  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Facturas Emitidas Proveedores:`</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Mucho Mucho mas:`</h3>
+
+
+
+  <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 La version 1.4.0 ya esta aqui! Productos!
  <br> <br> <br> <br> <br> <br>
 ## Version 1.4.4 Fixs en Buscadores y mas
