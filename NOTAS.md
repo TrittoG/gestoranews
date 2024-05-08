@@ -1,7 +1,7 @@
 # :large_blue_diamond: :large_blue_diamond: Novedades de Gestora! :large_blue_diamond: :large_blue_diamond:
 Notas de actualizaciones de Gestora!
 
-La version 2.0.0 ya esta aqui!
+## <h1 style="color: red;">La version 2.0.0 ya esta aqui!</h1>
  <br> <br> <br> <br> <br> <br>
 ## Version 2.0.0 Fixs varios y nuevas funcionalidades
  <br>
