@@ -9,21 +9,22 @@ Notas de actualizaciones de Gestora!
  
  ## Version 2.1.0 Fixs varios y nuevas funcionalidades  | 15/08/24
  <br>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Buscador Productos por Cantidad de ventas`</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: `` "Configuraciones" actualizadas y mejoradas`</h3>
  
 ## Version 2.0.0 Fixs varios y edicion de local  | 20/07/24
  <br>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Presupuestos:`</h3>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Configuraciones:`</h3>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Imprimir Facturas:`</h3>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Imprimir Tickets:`</h3>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Facturas Emitidas Proveedores:`</h3>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Buscador Productos por Cantidad de ventas:`</h3>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Informes:`</h3>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Fix Bugs y mejoras de performance:`</h3>
-  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Edicion de Local:`</h3>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Sucursales mejoradas:`</h3>
-  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Alertas mejoradas:`</h3>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Mucho Mucho mas:`</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Presupuestos`</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Configuraciones`</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Imprimir Facturas`</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Imprimir Tickets`</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Facturas Emitidas Proveedores`</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Informes`</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Fix Bugs y mejoras de performance`</h3>
+  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Edicion de Local`</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Sucursales mejoradas`</h3>
+  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Alertas mejoradas`</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Mucho Mucho mas`</h3>
 
 
 
