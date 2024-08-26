@@ -9,41 +9,41 @@ Notas de actualizaciones de Gestora!
  
  ## Version 2.1.0 Fixs varios y nuevas funcionalidades  | 15/08/24
  <br>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Buscador Productos por Cantidad de ventas`</h3>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: `` "Configuraciones" actualizadas y mejoradas`</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Buscador Productos por Cantidad de ventas</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: "Configuraciones" actualizadas y mejoradas</h3>
  <br><br>
+ 
 ## Version 2.0.0 Fixs varios y edicion de local  | 20/07/24
  <br>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Presupuestos`</h3>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Configuraciones`</h3>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Imprimir Facturas`</h3>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Imprimir Tickets`</h3>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Facturas Emitidas Proveedores`</h3>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Informes`</h3>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Fix Bugs y mejoras de performance`</h3>
-  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Edicion de Local`</h3>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Sucursales mejoradas`</h3>
-  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Alertas mejoradas`</h3>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Mucho Mucho mas`</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Presupuestos</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Configuraciones</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Imprimir Facturas</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Imprimir Tickets</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Facturas Emitidas Proveedores</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Informes</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Fix Bugs y mejoras de performance</h3>
+  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Edicion de Local</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Sucursales mejoradas</h3>
+  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Alertas mejoradas</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Mucho Mucho mas</h3>
 
 
 
-  <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
-La version 1.4.0 ya esta aqui! Productos!
- <br> <br> <br> <br> <br> <br>
+  <br> <br> <br> <br> <br> <br> <br> <br> <br> 
+
 ## Version 1.4.4 Fixs en Buscadores y mas
  <br>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Buscadores:`` Los buscadores de producto ahora no tienen el bug de paginacion y buscan automaticamente</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Buscadores: Los buscadores de producto ahora no tienen el bug de paginacion y buscan automaticamente</h3>
  <br>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Productos Padre:`` Ahora los Productos hijos dicen cual es su producto padre</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Productos Padre: Ahora los Productos hijos dicen cual es su producto padre</h3>
  
 ## Version 1.4.3 Productos Caja grande Caja chica y Migrador!
  <br>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Migrador:`` Ahora el migrador esta 100% funcional! ademas permite actualizar precios</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Migrador: Ahora el migrador esta 100% funcional! ademas permite actualizar precios</h3>
  <br>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Caja Grande:`` Ahora los saldos en la caja estan correctamente calculados</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Caja Grande: Ahora los saldos en la caja estan correctamente calculados</h3>
  <br>
- <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Caja Chica:`` Se agrego los conceptos de ingresos y egresos</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Caja Chica: Se agrego los conceptos de ingresos y egresos</h3>
 
 
 <br>
@@ -60,7 +60,7 @@ La version 1.4.0 ya esta aqui! Productos!
       alt="MDN"
       style="whidth:50px; margin: 1px solid black;">
        <br>
-       <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Notificaciones:`` Se agregan Notificaciones de cierre de caja chica y productos sin stock</h3>
+       <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Notificaciones: Se agregan Notificaciones de cierre de caja chica y productos sin stock</h3>
    <br>
 
 
@@ -70,10 +70,10 @@ La version 1.4.0 ya esta aqui! Productos!
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/36174147/255267270-e06be280-0444-4632-91be-0ac6a49966b3.png"
 alt="MDN"
 style="whidth:50px; margin: 1px solid black;">
-<h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Configuraciones:`` Se agrego una nueva pestana de Configuracion que permite agregar, modificar y/o borrar datos de la empresa</h3>
+<h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Configuraciones: Se agrego una nueva pestana de Configuracion que permite agregar, modificar y/o borrar datos de la empresa</h3>
    <br>
 
-   <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Mejoras de Seguridad:`` Ahora Gestora es mas segura! </h3>
+   <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Mejoras de Seguridad: Ahora Gestora es mas segura! </h3>
    <br>
 
 
@@ -84,25 +84,25 @@ style="whidth:50px; margin: 1px solid black;">
       alt="MDN"
       style="whidth:50px; margin: 1px solid black;">
        <br>
-    <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Nuevos Menus:`` Se agregan nuevos puntos de Menu para notas de credito emitidas y nuevas</h3>
+    <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Nuevos Menus: Se agregan nuevos puntos de Menu para notas de credito emitidas y nuevas</h3>
    <br>
   
  <img src="https://user-images.githubusercontent.com/36174147/218582009-ea4a505b-c783-4595-be4e-75b41fd9bf05.png"
       alt="MDN"
       style="whidth:50px; margin: 1px solid black;"> <br>
-   <h3 style="color: red;">:diamond_shape_with_a_dot_inside: `Colores!:` Ahora todas las tablas del sistema van a juego con el color principal!</h3>
+   <h3 style="color: red;">:diamond_shape_with_a_dot_inside: Colores!: Ahora todas las tablas del sistema van a juego con el color principal!</h3>
  <br>
  
  <img src="https://user-images.githubusercontent.com/36174147/218583220-b5599542-d12c-439b-acd6-6c7bf746a6ae.png"
       alt="MDN"
       style="whidth:50px; margin: 1px solid black;"> <br>
-   <h3 style="color: red;">:diamond_shape_with_a_dot_inside: `Nuevos graficos mejorados:` Se actualizaron los graficos del inicio cambiando color e informacion</h3>
+   <h3 style="color: red;">:diamond_shape_with_a_dot_inside: Nuevos graficos mejorados: Se actualizaron los graficos del inicio cambiando color e informacion</h3>
  <br>
  
   <img src="https://user-images.githubusercontent.com/36174147/218583591-c1153e5d-4f8e-43f2-9f4e-8c01ecee537b.png"
       alt="MDN"
       style="whidth:50px; margin: 1px solid black;"> <br>
-   <h3 style="color: red;">:diamond_shape_with_a_dot_inside: `Nuevos Nuevo Menu Datos:` Ahora hay un nuevo lugar donde ver informacion de tu negocio!</h3>
+   <h3 style="color: red;">:diamond_shape_with_a_dot_inside: Nuevos Nuevo Menu Datos: Ahora hay un nuevo lugar donde ver informacion de tu negocio!</h3>
 
 
  <br> <br> <br> <br> <br> <br> <br> <br> <br> 
