@@ -29,7 +29,7 @@ Notas de actualizaciones de Gestora!
 
 
 
-  <br> <br> <br> <br> <br> <br> <br> <br> <br> 
+  <br> <br> <br> <br> <br> <br> 
 
 ## Version 1.4.4 Fixs en Buscadores y mas
  <br>
