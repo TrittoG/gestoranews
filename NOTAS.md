@@ -1,11 +1,16 @@
 # :large_blue_diamond: :large_blue_diamond: Novedades de Gestora! :large_blue_diamond: :large_blue_diamond:
 Notas de actualizaciones de Gestora!
-
+ <br> <br> <br> <br> <br>
+ 
 ## <h1 style="color: red;">La version 2.0.0 ya esta aqui!</h1>
- <br> <br> <br> <br> <br> <br>
- ## Version 2.0.0 Fixs varios y nuevas funcionalidades
+
+ ## Version 2.1.0 Fixs en caja chica y caja grande | 26/08/24
  <br>
-## Version 2.1.0 Fixs varios y edicion de local
+ 
+ ## Version 2.1.0 Fixs varios y nuevas funcionalidades  | 15/08/24
+ <br>
+ 
+## Version 2.0.0 Fixs varios y edicion de local  | 20/07/24
  <br>
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Presupuestos:`</h3>
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Configuraciones:`</h3>
