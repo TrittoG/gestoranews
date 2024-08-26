@@ -4,7 +4,7 @@ Notas de actualizaciones de Gestora!
  
 ## <h1 style="color: red;">La version 2.1.0 ya esta disponible!</h1>
 
- ## Version 2.1.0 Fixs en caja chica y caja grande | 26/08/24
+ ## Version 2.2.0 Fixs en caja chica y caja grande | 26/08/24
  <br>
  
  ## Version 2.1.0 Fixs varios y nuevas funcionalidades  | 15/08/24
