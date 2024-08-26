@@ -11,7 +11,7 @@ Notas de actualizaciones de Gestora!
  <br>
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Buscador Productos por Cantidad de ventas`</h3>
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: `` "Configuraciones" actualizadas y mejoradas`</h3>
- 
+ <br><br>
 ## Version 2.0.0 Fixs varios y edicion de local  | 20/07/24
  <br>
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: ``Presupuestos`</h3>
