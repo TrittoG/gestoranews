@@ -2,7 +2,7 @@
 Notas de actualizaciones de Gestora!
  <br> <br> <br> <br> <br>
  
-## <h1 style="color: red;">La version 2.0.0 ya esta aqui!</h1>
+## <h1 style="color: red;">La version 2.1.0 ya esta disponible!</h1>
 
  ## Version 2.1.0 Fixs en caja chica y caja grande | 26/08/24
  <br>
