@@ -11,6 +11,7 @@ Notas de actualizaciones de Gestora!
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Se agregan tipos de pago y comprobantes de pagos de cuentas corrientes las cuales se imprimen segun el parametro de configuraciones</h3>
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Listas de Precios: Se agrega Lista Mayorista al momento de seleccionar el producto a vender. El campo se completa desde "Productos" al editar o crear uno nuevo</h3>
  <br><br>
+ 
  ## Version 2.2.0 Fixs en caja chica y caja grande | 26/08/24
  <br>
  
