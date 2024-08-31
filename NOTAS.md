@@ -6,7 +6,7 @@ Notas de actualizaciones de Gestora!
 ## <h1 style="color: red;">La version 2.3.0 ya esta disponible!</h1>
 
  
- ## Version 2.3.0 Cuenta Corriente y Listas de Precios  | 15/07/24
+ ## Version 2.3.0 Cuenta Corriente y Listas de Precios  | 31/08/24
  <br>
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Se agregan tipos de pago y comprobantes de pagos de cuentas corrientes las cuales se imprimen segun el parametro de configuraciones</h3>
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Listas de Precios: Se agrega Lista Mayorista al momento de seleccionar el producto a vender. El campo se completa desde "Productos" al editar o crear uno nuevo</h3>
