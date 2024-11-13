@@ -5,10 +5,13 @@ Notas de actualizaciones de Gestora!
  
 ## <h1 style="color: red;">La version 2.4.0 ya esta disponible!</h1>
 
- ## Version 2.4.0 Mas Seguridad y solucion de errores | 6/11/24
+ ## Version 2.4.0 Mas Seguridad y solucion de errores | 15/11/24
  <br>
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Se agregan ajustes de seguridad para una mejor experiencia</h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Ahora se puede Facturar un comprobante ya Ingresado anteriormente </h3>
  <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Se solucionan errores en busqueda de clientes </h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Mejora en la carga de comprobantes de Compra a Proveedores </h3>
+ <h3 style="color: red;"> :diamond_shape_with_a_dot_inside: Solucion de Bugs y mejoras generales </h3>
  <br><br>
  
  ## Version 2.3.0 Cuenta Corriente y Listas de Precios  | 31/08/24
