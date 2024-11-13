@@ -21,8 +21,8 @@ Bienvenido a las notas de actualización de **Gestora**! Aquí encontrarás las 
 
 ## :star2: Próximamente
 ### ¡Lo que se viene en futuras versiones!
-- :sparkles: **IMPRESION FACTURA PROVEEDOR
-IMPRESION TRANSFERENCIA SUCURSALES
+- :sparkles: **IMPRESION FACTURA PROVEEDOR -
+IMPRESION TRANSFERENCIA SUCURSALES -
 IMPRESION PRESUPUESTOS**
 - :gear: **Mejoras y correccion de bugs** en todos los puntos del menú.
 ---
