@@ -18,6 +18,16 @@ Bienvenido a las notas de actualización de **Gestora**! Aquí encontrarás las 
 
 ---
 
+
+## :star2: Próximamente
+### ¡Lo que se viene en futuras versiones!
+- :sparkles: **Optimización de reportes avanzados** para mejorar la experiencia de usuario.
+- :gear: **Soporte para múltiples monedas** en las transacciones.
+- :chart_with_upwards_trend: **Análisis y visualización de ventas mejoradas**.
+- :bell: **Notificaciones en tiempo real** para alertas de inventario y otras actividades críticas.
+
+---
+
 ## **Versión 2.3.0** - _Cuenta Corriente y Listas de Precios_ | **31/08/24**
 - :moneybag: Nuevos tipos de pago y comprobantes de cuentas corrientes, con opción de impresión según configuración.
 - :label: Nueva **Lista Mayorista** en la selección de productos a vender.
