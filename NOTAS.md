@@ -4,9 +4,21 @@ Bienvenido a las notas de actualización de **Gestora**! Aquí encontrarás las 
 
 ---
 
-## :sparkles: **La versión 2.4.0 ya está disponible!** :sparkles:
+## :sparkles: **La versión 2.5.0 ya está disponible!** :sparkles:
 
 ---
+
+## **Versión 2.5.0** - _Mensajes de Chat, edicion de usuario y mas_ | **15/11/24**
+### :closed_lock_with_key: Mejoras de Seguridad
+- Se añade mensajes de chat interno entre usuarios de la empresa.
+- Ahora se pueden editar los empleados y sus permisos.
+- Se pueden editar los clientes.
+- Se pueden editar los proveedores.
+- Corrección de menu Productos.
+- Corrección de bugs y mejoras generales.
+
+---
+
 
 ## **Versión 2.4.0** - _Más Seguridad y solución de errores_ | **15/11/24**
 ### :closed_lock_with_key: Mejoras de Seguridad
