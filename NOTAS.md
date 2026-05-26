@@ -4,7 +4,26 @@ Bienvenido a las notas de actualización de **Gestora**! Aquí encontrarás las 
 
 ---
 
-## :sparkles: **La versión 2.5.0 ya está disponible!** :sparkles:
+## :sparkles: **La versión 2.6.0 ya está disponible!** :sparkles:
+
+---
+
+## **Versión 2.6.0** - _E-commerce: Descuentos, stock y mejoras_ | **26/05/26**
+
+### 🛒 E-commerce
+- :label: **Descuentos por categoría/marca** — Configurá % de descuento por categoría o marca de producto. Se aplican automáticamente en la tienda y al crear el pedido. Si aplican ambos, se usa el mayor.
+- :money_with_wings: **Descuentos por medio de pago** — Porcentajes configurables para efectivo, transferencia y MercadoPago, aplicados al total en el checkout.
+- :framed_picture: **Banner por imagen** — Subí una imagen directamente desde el panel en vez de pegar una URL.
+- :receipt: **Comprobante de transferencia** — El cliente puede subir foto/PDF del comprobante desde "Mis pedidos".
+- :arrows_counterclockwise: **Mis pedidos en tiempo real** — La lista se actualiza automáticamente cada 10 segundos mientras el modal está abierto.
+- :package: **Stock reservado al crear el pedido** — El stock se descuenta al confirmar la compra. Si se cancela por cualquier vía (cliente, admin o MercadoPago), el stock se restaura automáticamente.
+
+### 🐛 Correcciones
+- Fix: sesión se cerraba al recargar la tienda (problema de autenticación en proxy de Ferozo).
+- Fix: "Mis pedidos" aparecía vacío después de recargar.
+- Fix: cancelar pedido y subir comprobante devolvían error HTML (rutas faltantes).
+- Fix: el stock no se consumía correctamente al crear pedidos.
+- Fix: el color principal aparecía negro al cargar la configuración.
 
 ---
 
