@@ -4,9 +4,30 @@ Bienvenido a las notas de actualización de **Gestora**! Aquí encontrarás las 
 
 ---
 
-## :sparkles: **La versión 2.5.0 ya está disponible!** :sparkles:
+## :sparkles: **La versión 2.7.0 ya está disponible!** :sparkles:
 
 ---
+
+## **Versión 2.7.0** - _Pago mixto, avisos por Telegram y más_ | **09/09/26**
+### :credit_card: Pago mixto
+- Ahora podés cobrar una misma venta con **2 métodos de pago** (ej: mitad efectivo, mitad transferencia — o una parte a Cuenta Corriente como pago parcial).
+- El desglose sale impreso en la factura y el ticket, y el **cierre de caja** separa cada método automáticamente.
+
+### :bell: Avisos por Telegram para tu tienda online
+- Si tenés e-commerce, vinculá tu Telegram desde la configuración de la tienda y recibí un aviso al instante cuando **entra un pedido**, se **acredita un pago** o suben un **comprobante de transferencia**.
+
+### :wrench: Mejoras generales
+- La pantalla de **Ayuda** ahora confirma el envío de tus solicitudes (y evita envíos duplicados).
+- El **export de productos a Excel** incluye Marca, Categoría y Anulados; el import reconoce la columna "anulado" para dar de baja por planilla.
+- Nueva página de **novedades** (¡esta misma!) con lo último de cada versión.
+
+### :closed_lock_with_key: Mejoras de Seguridad
+- Los pedidos de la tienda online solo puede verlos su dueño.
+- Permisos reforzados en marcas, categorías y configuraciones.
+- Backups automáticos y actualizaciones de base de datos sin intervención manual.
+
+---
+
 
 ## **Versión 2.5.0** - _Mensajes de Chat, edicion de usuario y mas_ | **15/11/24**
 ### :closed_lock_with_key: Mejoras de Seguridad
