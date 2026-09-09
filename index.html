@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Novedades de Gestora</title>
+<meta name="description" content="Las mejoras y correcciones de cada versión de Gestora.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='22' fill='%236366f1'/%3E%3Ctext x='50' y='72' font-size='60' text-anchor='middle'%3E%E2%9A%A1%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap">
+<style>
+  :root {
+    --fondo: #f6f6fb;
+    --tarjeta: #ffffff;
+    --tinta: #26235a;
+    --gris: #6f6d92;
+    --borde: #e4e3f1;
+    --acento: #6366f1;
+    --acento-tinta: #4649c9;
+    --chip-fondo: #eeeefc;
+    --hero-fondo: #191542;
+    --hero-tinta: #ffffff;
+    --hero-gris: #b6b3dd;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --fondo: #131126;
+      --tarjeta: #1c1938;
+      --tinta: #e9e8f7;
+      --gris: #a09ec4;
+      --borde: #2d2a52;
+      --acento: #818cf8;
+      --acento-tinta: #a5aefb;
+      --chip-fondo: #252152;
+      --hero-fondo: #0f0d20;
+    }
+  }
+  :root[data-theme="dark"] {
+    --fondo: #131126;
+    --tarjeta: #1c1938;
+    --tinta: #e9e8f7;
+    --gris: #a09ec4;
+    --borde: #2d2a52;
+    --acento: #818cf8;
+    --acento-tinta: #a5aefb;
+    --chip-fondo: #252152;
+    --hero-fondo: #0f0d20;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--fondo);
+    color: var(--tinta);
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    font-size: 16px;
+    line-height: 1.65;
+  }
+
+  /* ── Hero ── */
+  .hero {
+    background: linear-gradient(160deg, var(--hero-fondo) 55%, #2b2470);
+    color: var(--hero-tinta);
+    padding: 44px 24px 52px;
+  }
+  .hero-inner { max-width: 720px; margin: 0 auto; }
+  .marca { display: flex; align-items: center; gap: 12px; }
+  .logo {
+    width: 44px; height: 44px; border-radius: 12px;
+    background: var(--acento);
+    display: grid; place-items: center;
+    font-size: 24px;
+    box-shadow: 0 6px 18px rgba(99,102,241,.35);
+  }
+  .marca-nombre { font-weight: 800; font-size: 22px; letter-spacing: -.02em; }
+  .hero h1 {
+    margin: 26px 0 8px;
+    font-size: clamp(28px, 5vw, 40px);
+    font-weight: 800;
+    letter-spacing: -.03em;
+    line-height: 1.1;
+    text-wrap: balance;
+  }
+  .hero p.baja { margin: 0; color: var(--hero-gris); max-width: 46ch; }
+  .chip-ultima {
+    display: inline-flex; align-items: center; gap: 8px;
+    margin-top: 22px;
+    background: rgba(99,102,241,.18);
+    border: 1px solid rgba(129,140,248,.45);
+    color: #c9cdfd;
+    border-radius: 999px;
+    padding: 6px 14px;
+    font-family: 'JetBrains Mono', ui-monospace, monospace;
+    font-size: 13px; font-weight: 700;
+  }
+  .chip-ultima .punto {
+    width: 8px; height: 8px; border-radius: 50%;
+    background: #4ade80;
+    box-shadow: 0 0 0 3px rgba(74,222,128,.2);
+  }
+
+  /* ── Contenido ── */
+  main { max-width: 720px; margin: 0 auto; padding: 36px 24px 24px; }
+
+  .nota {
+    background: var(--tarjeta);
+    border: 1px solid var(--borde);
+    border-radius: 14px;
+    padding: 22px 26px;
+    margin-bottom: 18px;
+  }
+  .nota-cabecera {
+    display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap;
+    margin-bottom: 6px;
+  }
+  .nota-version {
+    font-family: 'JetBrains Mono', ui-monospace, monospace;
+    font-weight: 700; font-size: 14px;
+    color: var(--acento-tinta);
+    background: var(--chip-fondo);
+    border-radius: 8px;
+    padding: 3px 10px;
+    white-space: nowrap;
+  }
+  .nota-titulo { font-weight: 700; font-size: 17px; letter-spacing: -.01em; }
+  .nota-fecha {
+    margin-left: auto;
+    color: var(--gris); font-size: 13px; font-weight: 500;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+  .nota h2 { font-size: 18px; font-weight: 700; margin: 0 0 6px; letter-spacing: -.01em; }
+  .nota h3 { font-size: 13px; font-weight: 600; margin: 14px 0 4px; color: var(--gris);
+             text-transform: uppercase; letter-spacing: .06em; }
+  .nota ul { margin: 8px 0 0; padding-left: 20px; }
+  .nota li { margin: 5px 0; }
+  .nota li::marker { color: var(--acento); }
+  .nota p { margin: 8px 0 0; }
+  .nota strong { font-weight: 700; }
+  .nota em { color: var(--gris); font-style: normal; }
+  .nota hr { display: none; }
+
+  .nota.proximamente {
+    border: 1.5px dashed var(--acento);
+    background: linear-gradient(0deg, var(--chip-fondo), var(--tarjeta));
+  }
+
+  .intro, .banner { text-align: center; color: var(--gris); margin-bottom: 26px; }
+  .intro { display: none; } /* la bienvenida del .md ya la cuenta el hero */
+
+  #estado { text-align: center; color: var(--gris); padding: 40px 0; }
+  #estado a { color: var(--acento-tinta); }
+
+  footer {
+    max-width: 720px; margin: 0 auto;
+    padding: 10px 24px 44px;
+    text-align: center;
+    color: var(--gris); font-size: 13px;
+  }
+  footer a { color: var(--acento-tinta); text-decoration: none; font-weight: 600; }
+  footer a:focus-visible, .hero a:focus-visible { outline: 2px solid var(--acento); outline-offset: 3px; }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .nota { animation: aparecer .35s ease both; }
+    @keyframes aparecer { from { opacity: .35; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-inner">
+    <div class="marca">
+      <div class="logo">⚡</div>
+      <div class="marca-nombre">Gestora</div>
+    </div>
+    <h1>Novedades del sistema</h1>
+    <p class="baja">Lo que fuimos agregando y mejorando, versión por versión, para que administres más simple.</p>
+    <span class="chip-ultima" id="chipUltima" hidden><span class="punto"></span><span id="chipTexto"></span></span>
+  </div>
+</header>
+
+<main>
+  <div id="estado">Cargando novedades…</div>
+  <div id="contenido"></div>
+</main>
+
+<footer>
+  Gestora · <a href="https://gestora-lte.web.app" rel="noopener">Ir al sistema</a>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script>
+(function () {
+  var EMOJI = {
+    large_blue_diamond:'🔷', sparkles:'✨', closed_lock_with_key:'🔐', star2:'🌟', gear:'⚙️',
+    moneybag:'💰', label:'🏷️', mag:'🔍', wrench:'🔧', rocket:'🚀', bug:'🐛', tada:'🎉',
+    zap:'⚡', fire:'🔥', bulb:'💡', bell:'🔔', lock:'🔒', key:'🔑', package:'📦',
+    bar_chart:'📊', chart_with_upwards_trend:'📈', printer:'🖨️', truck:'🚚', shopping_cart:'🛒',
+    credit_card:'💳', envelope:'✉️', calendar:'📅', clipboard:'📋', pushpin:'📌', link:'🔗',
+    eyes:'👀', art:'🎨', iphone:'📱', computer:'💻', hammer:'🔨', shield:'🛡️',
+    white_check_mark:'✅', warning:'⚠️', gift:'🎁', telephone:'📞', memo:'📝', house:'🏠'
+  };
+
+  function emojis(md) {
+    return md.replace(/:([a-z0-9_+]+):/g, function (todo, nombre) {
+      return EMOJI[nombre] || '';
+    });
+  }
+
+  fetch('NOTAS.md')
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.text(); })
+    .then(function (md) {
+      var html = marked.parse(emojis(md));
+      var caja = document.createElement('div');
+      caja.innerHTML = html;
+
+      var contenido = document.getElementById('contenido');
+      var seccion = null;
+      var nodos = Array.prototype.slice.call(caja.childNodes);
+
+      nodos.forEach(function (nodo) {
+        if (nodo.nodeType !== 1) { return; }
+        if (nodo.tagName === 'H1') { return; }                    // el hero ya es el título
+        if (nodo.tagName === 'HR') { return; }
+
+        if (nodo.tagName === 'H2') {
+          seccion = document.createElement('section');
+          seccion.className = 'nota';
+          var texto = nodo.textContent.trim();
+
+          // "Versión 2.5.0 - subtítulo | 15/11/24" -> cabecera armada
+          var m = texto.match(/Versi[oó]n\s+([\d.]+)\s*-?\s*(.*?)(?:\|\s*(.+))?$/i);
+          if (m) {
+            var cab = document.createElement('div');
+            cab.className = 'nota-cabecera';
+            cab.innerHTML =
+              '<span class="nota-version">v' + m[1] + '</span>' +
+              (m[2] ? '<span class="nota-titulo">' + m[2].trim() + '</span>' : '') +
+              (m[3] ? '<span class="nota-fecha">' + m[3].trim() + '</span>' : '');
+            seccion.appendChild(cab);
+          } else {
+            if (/pr[oó]ximamente/i.test(texto)) { seccion.className += ' proximamente'; }
+            seccion.appendChild(nodo.cloneNode(true));
+          }
+          contenido.appendChild(seccion);
+          return;
+        }
+
+        if (!seccion) {
+          var p = nodo.cloneNode(true);
+          p.className = 'intro';
+          contenido.appendChild(p);
+          return;
+        }
+        seccion.appendChild(nodo.cloneNode(true));
+      });
+
+      // chip de última versión en el hero
+      var primera = md.match(/Versi[oó]n\s+([\d.]+)[^|\n]*\|\s*\*{0,2}([^*\n]+)/i);
+      if (primera) {
+        document.getElementById('chipTexto').textContent =
+          'Última versión ' + primera[1] + ' · ' + primera[2].trim();
+        document.getElementById('chipUltima').hidden = false;
+      }
+
+      document.getElementById('estado').remove();
+    })
+    .catch(function () {
+      document.getElementById('estado').innerHTML =
+        'No pudimos cargar las novedades. Podés verlas <a href="https://github.com/TrittoG/gestoranews/blob/main/NOTAS.md">acá</a>.';
+    });
+})();
+</script>
+</body>
+</html>
