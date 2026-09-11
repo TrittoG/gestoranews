@@ -4,9 +4,18 @@ Bienvenido a las notas de actualización de **Gestora**! Aquí encontrarás las 
 
 ---
 
-## :sparkles: **La versión 2.7.0 ya está disponible!** :sparkles:
+## :sparkles: **La versión 2.7.1 ya está disponible!** :sparkles:
 
 ---
+
+## **Versión 2.7.1** - _Lector de código de barras_ | **10/09/26**
+### :mag: Vendé escaneando
+- Conectá cualquier **lectora de códigos de barras USB** y listo: escaneás el producto y se agrega solo al carrito, sin tocar el mouse. Escaneá varias veces para sumar cantidad.
+- Nuevo campo **"Código de barras"** en tus productos (separado del código interno): cargalo escaneando el envase al crear el producto, o masivamente por Excel con la columna "codigo de barras".
+- Elegido el cliente, el cursor queda listo para escanear: facturar es escanear, escanear, cobrar.
+
+---
+
 
 ## **Versión 2.7.0** - _Pago mixto, avisos por Telegram y más_ | **09/09/26**
 ### :credit_card: Pago mixto
